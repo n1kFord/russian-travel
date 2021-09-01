@@ -1,0 +1,10 @@
+.page{
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    min-width: 1300px;
+    max-width: 1600px;
+}
