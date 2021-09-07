@@ -1,4 +1,4 @@
-.header__language__text{
+.header__lang-link{
     margin: 0;
     padding: 0;
     font-family: Inter;
@@ -12,23 +12,23 @@
     transition: 0.2s ease-in-out;
 }
 
-.header__language__text:hover{
+.header__lang-link:hover{
     opacity: 0.5;
     transition: 0.2s linear;
 }
 
 @media screen and (max-width:515px){
-    .header__language__text{
+    .header__lang-link{
         margin-left: 20px;
     }
 }
 @media screen and (max-width:350px){
-    .header__language__text{
+    .header__lang-link{
         font-size: 17px;
     }
 }
 @media screen and (max-width:320px){
-    .header__language__text{
+    .header__lang-link{
         font-size: 15px;
     }
 }
