@@ -1,0 +1,23 @@
+@media screen and (max-width: 420px){
+    .place__website__link_type_baikalmile{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width:390px){
+    .place__website__link_type_baikalmile{
+        font-size: 12px;
+    }
+    .place__website__link{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 375px){
+    .place__website__link_type_baikalmile{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 360px){
+    .place__website__link_type_baikalmile{
+        font-size: 13px;
+    }
+}

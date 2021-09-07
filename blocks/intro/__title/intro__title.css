@@ -1,0 +1,49 @@
+.intro__title{
+    margin: 0;
+    padding: 0;
+    width: 690px;
+    font-family: Inter;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 58px;
+    text-align: left;
+    color: white;
+}
+@media screen and (max-width:768px){
+    .intro__title{
+        width: 608px;
+        font-size: 40px;
+        line-height: 35px;
+    }
+}
+@media screen and (max-width:655px){
+    .intro__title{
+        width: 508px;
+        font-size: 40px;
+        line-height: 35px;
+    }
+}
+@media screen and (max-width:612px){
+    .intro__title{
+        width: 508px;
+        font-size: 40px;
+        line-height: 35px;
+    }
+}
+
+@media screen and (max-width:550px){
+    .intro__title{
+        width: 260px;
+        font-size: 40px;
+        line-height: 35px;
+    }
+}
+
+@media screen and (max-width:320px){
+    .intro__title{
+        width: 238px;
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

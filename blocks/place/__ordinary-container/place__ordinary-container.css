@@ -1,0 +1,14 @@
+.place__ordinary-container{
+    margin-top: 20%;
+    padding-left: 40px;
+}
+@media screen and (max-width:590px){
+    .place__ordinary-container{
+        padding-left: 25px;
+    }
+}
+@media screen and (max-width:360px){
+    .place__ordinary-container{
+        padding-left: 0;
+    }
+}
