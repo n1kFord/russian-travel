@@ -1,6 +1,7 @@
 .cover__link-all{
     text-decoration: none;
     z-index: 2;
+    min-height: 740px;
 }
 @media screen and (max-width: 1200px){
     .cover__link-all{
