@@ -2,4 +2,6 @@
 
 Вебсайт про путешествия, выполнен при помощи HTML / CSS.
 
+Были использованы медиазапросы, методы grid-выравнивания и flex-box, сверстано с макета фигмы.
+
 [ссылка на страницу github-pages](https://n1kford.github.io/russian-travel/index.html)
