@@ -12,21 +12,23 @@
 }
 @media screen and (max-width:768px){
     .intro__title{
-        width: 608px;
-        font-size: 40px;
-        line-height: 35px;
+        width: 720px;
+        font-size: 54px;
+        line-height: 58px;
     }
 }
-@media screen and (max-width:655px){
+@media screen and (max-width:765px){
     .intro__title{
-        width: 508px;
-        font-size: 40px;
-        line-height: 35px;
+        width: 420px;
+        font-size: 54px;
+        line-height: 58px;
     }
 }
+
+
 @media screen and (max-width:612px){
     .intro__title{
-        width: 508px;
+        width: 408px;
         font-size: 40px;
         line-height: 35px;
     }
@@ -40,10 +42,9 @@
     }
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:355px){
     .intro__title{
         width: 238px;
         font-size: 32px;
-        line-height: 35px;
     }
 }

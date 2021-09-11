@@ -19,36 +19,6 @@
 }
 @media screen and (max-width:612px){
     .intro{
-        width: 500px;
-    }
-}
-@media screen and (max-width:550px){
-    .intro{
-        width: 470px;
-    }
-}
-@media screen and (max-width:500px){
-    .intro{
-        width: 450px;
-    }
-}
-@media screen and (max-width:475px){
-    .intro{
-        width: 376px;
-    }
-}
-@media screen and (max-width:405px){
-    .intro{
-        width: 350px;
-    }
-}
-@media screen and (max-width:375px){
-    .intro{
-        width: 306px;
-    }
-}
-@media screen and (max-width:320px){
-    .intro{
-        width: 288px;
+        width: 90%;
     }
 }
