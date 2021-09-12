@@ -1,7 +1,6 @@
 .lead__title{
     padding: 0;
     margin: 0 auto;
-    font-family: Inter;
     font-size: 96px;
     font-style: normal;
     font-weight: 900;
@@ -12,12 +11,6 @@
     
 }
 
-@media screen and (max-width:768px){
-    .lead__title{
-        font-size: 96px;
-        line-height: 100px;
-    }
-}
 @media screen and (max-width:740px){
     .lead__title{
         width: 600px;
@@ -27,19 +20,13 @@
 }
 @media screen and (max-width:640px){
     .lead__title{
-        font-size: 75px;
-        line-height: 80px;
-        width: 550px;
-    }
-}
-@media screen and (max-width:612px){
-    .lead__title{
         font-size: 70px;
         line-height: 75px;
         width: 500px;
         margin: 0 auto;
     }
 }
+
 @media screen and (max-width:550px){
     .lead__title{
         font-size: 55px;

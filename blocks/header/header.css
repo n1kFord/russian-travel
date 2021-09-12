@@ -5,8 +5,13 @@
     align-items: center;
     padding: 28px 48px;
 }
-
-
+@media screen and (max-width: 768px){
+    .header{
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+        
 @media screen and (max-width:655px){
     .header{
         width: calc(100vw - 125px);
