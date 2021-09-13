@@ -9,28 +9,20 @@
 }
 @media screen and (max-width: 1230px){
     .footer{
-        width: calc(100vw - 100px);
+        width: calc(100vw - 96px); /* убрал 4 пикселя, теперь его ширина пиксель-перфектна */
     }
 }
 @media screen and (max-width: 768px){
     .footer{
-        width: 93%;
+        width: 93.750%;
+        margin-top: 88px;
     }
 }
 
-@media screen and (max-width: 665px){
-    .footer{
-        width: 550px;
-    }
-}
+
 @media screen and (max-width: 575px){
     .footer{
-        width: 350px;
-    }
-}
-@media screen and (max-width: 355px){
-    .footer{
-        width: 110px;
+        width: 200px;
         flex-direction: column;
         margin: 64px 0 auto 0;
         margin-left: 16px;
